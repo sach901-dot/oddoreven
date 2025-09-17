@@ -1,0 +1,17 @@
+<html>
+<h1>Welcome</h1>
+
+</html>
+
+
+package Javaoperations;
+
+public class evenorodd {
+
+public static void main(String[] {
+int Num = 86;
+if(Num%2==0{
+ System.out.printIn(''even'');
+}ele {System.out.printIn(''odd'');
+}
+}
